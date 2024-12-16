@@ -20,7 +20,7 @@
     "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample2.png?raw=true"
   },
   {
-    "title": "도영아 니땀시 산다",
+    "title": "도영아 니 땀시 산다",
     "station": "강남역",
     "school": "한양여대",
     "school_image": "assets/images/school_image_3.png",
@@ -38,5 +38,70 @@
     "member_num": "3",
     "hashtags": "#MBTI는과학 #관상은믿거 #손금못봄",
     "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample4.png?raw=true"
+  },
+  {
+    "title": "건국대 우유배달학과 2명 있어",
+    "station": "선릉역",
+    "school": "건국대",
+    "school_image": "assets/images/school_image_5.png",
+    "gender": "여",
+    "member_num": "3",
+    "hashtags": "#우유는서울우유 #서울우유먹어서키큼",
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample5.png?raw=true"
+  }
+  ,
+  {
+    "title": "육군사관학교 무용학과 3명 있음",
+    "station": "선릉역",
+    "school": "육군사관학교",
+    "school_image": "assets/images/school_image_5.png",
+    "gender": "여",
+    "member_num": "4",
+    "hashtags": "#무용하는군인 #존잘스멜 #외모췍",
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample5.png?raw=true"
+  }
+  ,
+  {
+    "title": "건국대 우유배달학과 2명 있어",
+    "station": "선릉역",
+    "school": "건국대",
+    "school_image": "assets/images/school_image_5.png",
+    "gender": "여",
+    "member_num": "3",
+    "hashtags": "#우유는서울우유 #서울우유먹어서키큼",
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample5.png?raw=true"
+  }
+  ,
+  {
+    "title": "건국대 우유배달학과 2명 있어",
+    "station": "선릉역",
+    "school": "건국대",
+    "school_image": "assets/images/school_image_5.png",
+    "gender": "여",
+    "member_num": "3",
+    "hashtags": "#우유는서울우유 #서울우유먹어서키큼",
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample5.png?raw=true"
+  }
+  ,
+  {
+    "title": "건국대 우유배달학과 2명 있어",
+    "station": "선릉역",
+    "school": "건국대",
+    "school_image": "assets/images/school_image_5.png",
+    "gender": "여",
+    "member_num": "3",
+    "hashtags": "#우유는서울우유 #서울우유먹어서키큼",
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample5.png?raw=true"
+  }
+  ,
+  {
+    "title": "건국대 우유배달학과 2명 있어",
+    "station": "선릉역",
+    "school": "건국대",
+    "school_image": "assets/images/school_image_5.png",
+    "gender": "여",
+    "member_num": "3",
+    "hashtags": "#우유는서울우유 #서울우유먹어서키큼",
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample5.png?raw=true"
   }
 ]
