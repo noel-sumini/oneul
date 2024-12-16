@@ -1,0 +1,22 @@
+[
+  {
+      "title": "한양여대 항공서비스학과 3명 있어여",
+      "station": "강남역",
+      "school": "한양여대",
+      "school_image": "assets/images/school_image_1.png",
+      "gender": "여",
+      "member_num": "3",
+      "hashtags": "#몸매좋음 #존잘환영 #재밌는분환영",
+      "thumbnail_image": "assets/images/thumbnail_1.png",
+    },
+    {
+      "title": "대불대 목탁디자인학과 2명 있음",
+      "station": "강남역",
+      "school": "대불대",
+      "school_image": "assets/images/school_image_2.png",
+      "gender": "남",
+      "member_num": "2",
+      "hashtags": "#몸매좋음 #개존잘 #오빠믿지",
+      "thumbnail_image": "assets/images/thumbnail_2.png",
+    }
+]
