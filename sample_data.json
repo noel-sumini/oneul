@@ -7,7 +7,7 @@
     "gender": "여",
     "member_num": "3",
     "hashtags": "#몸매좋음 #존잘환영 #재밌는분환영",
-    "thumbnail_image": "assets/images/thumbnail_1.png"
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample1.png?raw=true"
   },
   {
     "title": "대불대 목탁디자인학과 2명 있음",
@@ -17,7 +17,7 @@
     "gender": "남",
     "member_num": "2",
     "hashtags": "#몸매좋음 #개존잘 #오빠믿지",
-    "thumbnail_image": "assets/images/thumbnail_2.png"
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample2.png?raw=true"
   },
   {
     "title": "도영아 니딴시 산다",
@@ -27,7 +27,7 @@
     "gender": "남",
     "member_num": "2",
     "hashtags": "#그런날있잖아 #니딴시살어야",
-    "thumbnail_image": "assets/images/thumbnail_3.png"
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample3.png?raw=true"
   },
   {
     "title": "울릉대 오징어심리학과 3명 있어",
@@ -37,6 +37,6 @@
     "gender": "여",
     "member_num": "3",
     "hashtags": "#MBTI는과학 #관상은믿거 #손금못봄",
-    "thumbnail_image": "assets/images/thumbnail_4.png"
+    "thumbnail_image": "https://raw.githubusercontent.com/noel-sumini/oneul/main/assets/images/sample4.png?raw=true"
   }
 ]
